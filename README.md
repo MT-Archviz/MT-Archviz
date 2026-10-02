@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @MT-Archviz
-- 👀 I’m interested in ...Architecture Visulaztion 
-- 🌱 I’m currently learning ...NVRTX
-- 💞️ I’m looking to collaborate on ...EPIC Games Projects
-- 📫 How to reach me ... MohamedTahaArchviz@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Mohamed Hosny Taha
 
-<!---
-MT-Archviz/MT-Archviz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Senior Technical Artist · Unreal Engine Artist
+
+I build **real-time visual experiences** with Unreal Engine, combining an architectural visualization background with technical art and interactive development.
+
+My work focuses on:
+
+- Real-time Architectural Visualization
+- Technical Art & Look Development
+- Real-Time Cinematics
+- Interactive Experiences
+- Digital Twins
+- Environment Development
+
+### Unreal Engine
+
+I work across the real-time pipeline, including:
+
+`Unreal Engine` · `Blueprints` · `Nanite` · `Lumen` · `Path Tracing`  
+`World Partition` · `MetaHuman` · `Control Rig` · `MRQ` · `NDisplay`
+
+### Background
+
+**Senior Technical Artist / Unreal Engine Artist**
+
+Interior Architecture → Archviz → Real-Time Visualization → Technical Art
+
+I’m particularly interested in the intersection between **architecture, visual storytelling, and real-time technology**.
+
+### Selected Work
+
+Coming soon.
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/mt-archviz) · [Showreel](YOUR_SHOWREEL_LINK) · [Email](mailto:MohamedTahaArchviz@gmail.com)
